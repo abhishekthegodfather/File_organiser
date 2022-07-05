@@ -1,0 +1,2 @@
+# File_organiser
+The File Organiser which is written in JavaScript and runs in the env of nodejs help you to organise the files into different categories like media, apps, image etc. This type of feature is present in android but not present in the windows or linux or mac so, this program help you to organise this file and this file organiser program also capable to show the sub files list without opening the files and print the sub files name in the tree manager so that  we can understand which folder contains which files
