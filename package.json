@@ -1,0 +1,15 @@
+{
+  "name": "projets_nde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file_organize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin" : {
+    "orgfile" : "file_organize.js"
+  }
+}
